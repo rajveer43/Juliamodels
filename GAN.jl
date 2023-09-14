@@ -73,3 +73,4 @@ for epoch in 1:epochs
         println("Epoch: $epoch")
     end
 end
+
